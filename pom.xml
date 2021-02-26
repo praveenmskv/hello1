@@ -16,19 +16,13 @@
         <app.runtime>4.3.0</app.runtime>
         <mule.maven.plugin.version>3.3.5</mule.maven.plugin.version>
         <!-- cloudhub deploy properties -->
-		<anypoint.platform.uri>${uri}</anypoint.platform.uri>
-		<anypoint.platform.mule.version>${muleVersion}
+		<anypoint.platform.uri>https://anypoint.mulesoft.com</anypoint.platform.uri>
+		<anypoint.platform.mule.version>4.3.0
 		</anypoint.platform.mule.version>
 		<anypoint.platform.username>praveenmskv123</anypoint.platform.username>
 		<anypoint.platform.password>Praveen@35</anypoint.platform.password>
-		<anypoint.platform.businessGroup>${businessGroup}
-		</anypoint.platform.businessGroup>
 		<anypoint.platform.appName>Hello1</anypoint.platform.appName>
-		<anypoint.platform.environment>QA
-		</anypoint.platform.environment>
-		<anypoint.platform.clientId>${clientId}</anypoint.platform.clientId>
-		<anypoint.platform.clientSecret>${clientSecret}
-		</anypoint.platform.clientSecret>
+		<anypoint.platform.environment>QA</anypoint.platform.environment>
 		<anypoint.platform.muleEnv>dev</anypoint.platform.muleEnv>
     </properties>
  
