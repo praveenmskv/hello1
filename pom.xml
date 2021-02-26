@@ -30,8 +30,8 @@
                         <muleVersion>4.3.0</muleVersion>
                         <username>praveenmskv123</username>
                         <password>Praveen@35</password>
-                        <applicationName>mulesoft-cicd-sample1</applicationName>
-                        <environment>Sandbox</environment>
+                        <applicationName>Hello1</applicationName>
+                        <environment>QA</environment>
                         <workerType>MICRO</workerType>
                         <objectStoreV2>true</objectStoreV2>
                     </cloudHubDeployment>
