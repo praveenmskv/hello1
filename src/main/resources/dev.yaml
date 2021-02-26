@@ -1,0 +1,6 @@
+http:
+  port:  '8081'
+
+path: '/test'
+
+message: "this is praveen"
